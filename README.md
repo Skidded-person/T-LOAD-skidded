@@ -71,7 +71,7 @@ T-load is a bash based script which modifies and changes your terminal from bori
 
 `To revert/to get back into normal termux mode use this commands`
 
-* `cd T-LOAD`
+* `cd T-LOAD-skidded`
 * `ls`
 * `bash rvt.sh`
 
