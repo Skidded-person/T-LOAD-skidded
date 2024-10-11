@@ -58,7 +58,7 @@ T-load is a bash based script which modifies and changes your terminal from bori
 * ` git clone https://github.com/Skidded-person/T-LOAD-skidded`
 * `cd $HOME`
 * `ls`
-* `cd T-LOAD`
+* `cd T-LOAD-skidded`
 * `ls`
 * `bash t-load.sh`
 ```
